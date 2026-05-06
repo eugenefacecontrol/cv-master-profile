@@ -69,6 +69,47 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 - Power Automate
 - FlaUI
 
+## Language Background and Practical Depth
+
+### Java
+- First programming language
+- Started in 2012 at university, initially learning and experimenting even in very lightweight/editor-driven setups
+- Later used professionally at EPAM
+- Important foundational language, but not current primary stack
+
+### C#
+- Second major language
+- Used professionally at EPAM in regression automation work
+- Strong working language in the automation background
+- Comfortable with collections, LINQ-heavy transformations, string processing, regex-driven tasks, utility coding, and general problem solving
+- Best positioned as a strong working automation language rather than main current day-to-day language
+
+### JavaScript
+- Used extensively for practical scripting and workflow automation
+- Wrote many Tampermonkey scripts, browser-side helpers, and repetitive-task optimizations for day-to-day work
+- Strongly connected to productivity improvements and internal workflow acceleration
+- Best positioned as a solid practical scripting/tooling language rather than a deep frontend-specialist stack
+
+### PowerShell
+- One of the strongest practical languages in the profile
+- Started using it during the DevStream / Leapwork period and expanded it heavily in real work
+- Used for environment automation, infrastructure-related tasks, internal tooling, release support, VM-related workflows, repetitive task elimination, and process optimization
+- Practical strength is clearly higher than theory/exam-style recall; strongest when used for real automation and systems work
+
+### TypeScript
+- Used mainly at Definely, especially around Playwright-based automation and more modern testing workflows
+- Practical, real-world usage in current-generation automation context
+- Newer and less deep than PowerShell or long-term JavaScript/C# usage, but meaningful and relevant for modern QA automation positioning
+
+## Evidence from Practice / Coding Style Notes
+
+- Codewars history shows sustained practical coding ability, especially in C# and JavaScript, with some PowerShell usage as well
+- Strong pattern of solving problems through transformation pipelines: filtering, grouping, ordering, reshaping, and rebuilding data
+- Comfortable with regex, collections, helper methods, extension methods, and utility abstractions
+- More of a practical engineer than a language purist: prefers working and useful solutions over academic elegance
+- Often demonstrates real-world engineering instincts: decomposition, helper extraction, repetitive-task reduction, and readability-oriented automation
+- Honest positioning: not an algorithmic specialist or theory-first engineer, but a strong automation/problem-solving engineer who codes comfortably and effectively
+
 ## Experience
 
 ### EPAM Systems — Automation QA Engineer / Tester (.NET)
