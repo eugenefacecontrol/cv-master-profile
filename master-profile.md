@@ -110,6 +110,14 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 - Often demonstrates real-world engineering instincts: decomposition, helper extraction, repetitive-task reduction, and readability-oriented automation
 - Honest positioning: not an algorithmic specialist or theory-first engineer, but a strong automation/problem-solving engineer who codes comfortably and effectively
 
+## Public Links
+
+- LinkedIn: https://www.linkedin.com/in/yauhei-sheima/
+- GitHub: https://github.com/eugenefacecontrol
+- Portfolio: https://eugenefacecontrol.github.io/portfolio-site/
+- Codewars: https://www.codewars.com/users/EugeneSheyma
+- Public CV: https://docs.google.com/document/d/1yW8blq957owXi-M-3WF-PGzqAY3YOPKSGMAcuIecOKU/edit?usp=sharing
+
 ## Experience
 
 ### EPAM Systems — Automation QA Engineer / Tester (.NET)
