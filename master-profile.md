@@ -12,7 +12,7 @@ He combines classic QA automation foundations with strong hands-on experience in
 
 ## Short Recruiter Summary
 
-QA Automation Engineer with 7+ years of experience across UI/API automation, CI/CD, and DevOps-aligned quality engineering. Strong in Playwright, Selenium, PowerShell, Azure, Azure DevOps, Bicep, and pipeline-driven delivery. Best at improving systems end to end: automation, environments, workflows, observability, and release confidence.
+QA Automation Engineer with 7+ years of experience across UI/API automation, CI/CD, and DevOps-aligned quality engineering. Strong in Playwright, Selenium, PowerShell, Azure, Azure DevOps, Bicep, and pipeline-driven delivery. Actively applying AI-assisted engineering (ChatGPT, Copilot, Claude Code, agent-based workflows) for faster test design, debugging, framework maintenance, and productivity automation. Best at improving systems end to end: automation, environments, workflows, observability, and release confidence.
 
 ## Long Professional Narrative
 
@@ -26,6 +26,7 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 
 - Strong automation mindset and systems thinking
 - Practical process optimization and workflow improvement
+- AI-assisted QA workflows and LLM-supported engineering productivity
 - Azure-based infrastructure automation
 - PowerShell scripting and internal tooling
 - Pipeline automation and CI/CD integration
@@ -68,6 +69,10 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 - Playwright
 - Power Automate
 - FlaUI
+- ChatGPT
+- GitHub Copilot
+- Claude Code
+- Agent-based coding/automation workflow experiments
 
 ## Language Background and Practical Depth
 
@@ -240,9 +245,23 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Improving feedback quality in CI/CD pipelines
 - Removing unnecessary logging and noise to improve signal quality
 - Increasing automation coverage without bloating execution time
+- Applying AI-assisted test design and debugging to reduce routine effort
 - Automating repetitive internal team workflows
 - Making environments and delivery processes more reproducible and maintainable
 - Bridging QA and infrastructure concerns instead of treating them separately
+
+## ATS AI Keyword Bank (Use selectively per vacancy)
+
+- AI-assisted testing
+- AI-augmented QA workflows
+- LLM-assisted test case generation
+- Prompt engineering for QA
+- AI-supported defect triage
+- AI-assisted root cause analysis
+- Test impact analysis
+- Flaky test triage
+- Quality intelligence
+- Agentic engineering workflows
 
 ## Future Growth Directions / Interests
 
