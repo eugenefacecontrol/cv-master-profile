@@ -1,4 +1,4 @@
-# Yauheni Sheima — Tailored CV for Montrose Software
+# Yauheni Sheima
 ## QA Automation Engineer
 
 **Kraków, Poland**  
@@ -145,24 +145,3 @@ Early enterprise automation stage that built strong coding and testing foundatio
 **Bachelor of Science in Digital Economy**  
 Minsk, Belarus  
 **2013 – 2017**
-
----
-
-## Why This Role Fits Well
-
-This role is a good match because it combines several areas that are strongly aligned with my background:
-- growing automation in a team that still relies heavily on manual testing
-- building and maintaining test automation frameworks
-- improving coverage and reliability
-- using practical coding skills rather than only manual QA execution
-- working in a structured Agile/Scrum delivery environment
-
-The strongest fit is not “Python-first automation specialist,” but rather a practical QA Automation Engineer who can help a team build sustainable automation, improve quality processes, and increase confidence in releases.
-
----
-
-## Honest Positioning
-
-- Strong fit for: **QA automation, framework improvement, Playwright/Selenium-based UI automation, API testing, maintainable test design, CI/CD-aware quality**
-- Relevant supporting fit for: **TypeScript/JavaScript-based automation**, **team transition from manual to automation**, **workflow/system thinking**
-- More limited / should be framed honestly: **deep Python-first automation ownership**, **advanced healthcare-domain background**, **ISTQB as core selling point**
