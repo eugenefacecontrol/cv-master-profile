@@ -4,14 +4,14 @@
 **Tier:** A  
 **Priority rank:** 10  
 **Open roles count:** 3  
-**Focus:** SDET
+**Focus:** Senior Python Automation Test Engineer — healthcare / embedded device testing
 
 ---
 
 ## Tailoring notes
-- Emphasize experience relevant to **SDET**.
-- Prioritize Playwright/Selenium/API automation outcomes and measurable impact.
-- Keep summary concise; align wording to company domain and role seniority.
+- Emphasize automation engineering, scripting mindset, test specifications, documentation, debugging, and framework maintainability.
+- Position Python as practical scripting/automation-adjacent capability, not strongest current primary stack.
+- Be honest that Squish, COCO, and embedded medical devices are ramp-up areas; connect through automation frameworks, careful validation, and product-quality discipline.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## Identity / Positioning
 
-QA Automation Engineer / SDET / DevOps-aligned QA focused on CI/CD-integrated quality, fast feedback, environment automation, and practical process optimization.
+QA Automation Engineer / SDET focused on test automation frameworks, scripting-driven quality workflows, documentation discipline, and practical debugging across complex product environments.
 
 ## Core Positioning Summary
 
@@ -29,7 +29,9 @@ He combines classic QA automation foundations with strong hands-on experience in
 
 ## Short Recruiter Summary
 
-QA Automation Engineer with 7+ years of experience across UI/API automation, CI/CD, and DevOps-aligned quality engineering. Strong in Playwright, Selenium, PowerShell, Azure, Azure DevOps, Bicep, and pipeline-driven delivery. Best at improving systems end to end: automation, environments, workflows, observability, and release confidence.
+QA Automation Engineer with 7+ years of experience across test automation, UI/API validation, scripting, CI/CD-integrated quality workflows, framework improvement, and detailed issue investigation. Strong fit for automation roles that require analytical debugging, maintainable test scripts, clear documentation, and close collaboration with developers and QA teams.
+
+Yauheni’s recent work includes improving API automation frameworks, making test results easier to analyze, reducing noisy logs, and building practical tooling around quality workflows. While Squish, COCO, and embedded medical-device automation would be ramp-up areas, his background in automation frameworks, scripting, structured test documentation, enterprise product workflows, and careful debugging is relevant to building reliable automated coverage for healthcare solutions.
 
 ## Long Professional Narrative
 
@@ -41,36 +43,55 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 
 ## Core Strengths
 
-- Strong automation mindset and systems thinking
-- Practical process optimization and workflow improvement
-- Azure-based infrastructure automation
-- PowerShell scripting and internal tooling
-- Pipeline automation and CI/CD integration
-- Environment setup, maintenance, and reproducibility
-- Connection between quality and delivery workflows
-- Cross-functional technical support and knowledge sharing
-- Long-term product-context understanding
-- Pragmatic engineering decisions based on business constraints
+- Test automation framework improvement and maintenance
+- Scripting mindset for practical automation problems
+- Analytical debugging and root-cause investigation
+- Clear test documentation and defect evidence
+- Software Test Specification / structured test thinking
+- UI/API automation and regression coverage
+- CI/CD-integrated quality workflows
+- Logs, environment, and data/state investigation
+- Collaboration with developers, QA teams, and stakeholders
+- Careful validation mindset for healthcare/product-quality contexts
+- Automation strategy optimization and reliability improvement
+- Pragmatic ramp-up into new tools and domains
 
 ## Main Stack
 
 - PowerShell
+- Python scripting basics
+- JavaScript / TypeScript
+- C#
+- Selenium WebDriver
+- Playwright
+- REST API testing
+- Postman / Newman
+- SQL
+- Jenkins
 - Azure
 - Azure DevOps
-- Bicep
 - YAML pipelines
-- C#
-- TypeScript / JavaScript
-- SQL
-- REST API
 - TestRail
-- Jenkins
 - TeamCity
 
 ## Additional Tools / Technologies
 
+- Test automation frameworks
+- Automated test scripts
+- Software Test Specifications (STS)
+- Structured test documentation
+- Squish / COCO ramp-up readiness
+- Embedded systems testing ramp-up readiness
+- Healthcare / medical workflow validation adaptability
+- Defect analysis and evidence collection
+- Logs and environment diagnostics
+- Test strategy optimization
+- Manual and automated regression testing
+- Bash
+- Windows / Linux
 - Docker
 - Kubernetes
+- Bicep
 - Helm
 - Grafana
 - Prometheus / Loki
@@ -78,11 +99,6 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 - Application Gateway
 - WAF
 - Virtual Machines
-- Windows / Linux
-- Bash
-- Postman / Newman
-- Selenium
-- Playwright
 - Power Automate
 - FlaUI
 
@@ -100,11 +116,13 @@ EPAM was the starting school that built the classic foundation in enterprise aut
 - NUnit
 - Some mobile automation through Xamarin
 - Regression coverage in enterprise environments
+- Structured enterprise testing and documentation habits
 
 **Value of this period:**
 - Built classic testing and coding foundation
 - Gained early enterprise automation discipline
 - Learned to work with code-based automation in structured environments
+- Built the foundation for maintainable automated test scripts and clear defect reporting
 
 ### Leapwork — Tester / DevOps Engineer
 **Minsk, Belarus / Kraków, Poland**  
@@ -119,6 +137,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 - Built PowerShell scripts, JavaScript and Tampermonkey automations, helper tools, VM utilities, installation automation, and many workflow improvements for self and team
 - Automated repetitive manual flows and removed unnecessary manual steps wherever possible
 - Transitioned naturally from local VM and scripting work into broader Azure and infrastructure automation
+- Developed a strong scripting/tooling habit that transfers well to Python/Squish-style automation work
 
 **Examples of automation mindset in practice:**
 - Silent installation flows for the product
@@ -126,6 +145,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 - Browser extensions for pipeline-related work
 - JavaScript scripts and shortcuts for repetitive actions
 - Internal helper tools to avoid repeated manual work
+- Practical troubleshooting across product behavior, environments, logs, and workflow state
 
 **DevOps / Infrastructure scope:**
 - Azure infrastructure automation
@@ -152,6 +172,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 - Worked extensively around enterprise application workflows, especially Dynamics 365
 - Some exposure to Salesforce-related scenarios
 - Solid experience with green-screen style applications in banking-related contexts
+- Relevant mindset for regulated/quality-sensitive products where precision, documentation, and safe workflows matter
 
 ### Definely — QA Automation Engineer
 **Kraków, Poland**  
@@ -164,6 +185,7 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Increased test coverage from around 117 to 199 tests without increasing runtime
 - Reduced log volume from around 1.5 GB to 11 MB per run by removing unnecessary debug logging
 - Made test output much more useful for analysis and triage
+- Improved reliability and readability of automation feedback for faster defect analysis
 
 **Automation transition story:**
 - Initially worked with an API framework and existing UI automation approaches
@@ -178,6 +200,7 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Enabling manual QA engineers and building automation baseline for wider team use
 - Pragmatic engineering judgment rather than technology ideology
 - Experience with modern AI-assisted tooling such as Cloud Code, ChatGPT, Copilot, and agent-based workflow experiments
+- Ability to ramp into new automation tools when product constraints require a different testing approach
 
 **Reason for transition / current search direction:**
 - Company priorities shifted more toward development and maintaining existing end-to-end tests, rather than actively expanding automation further
