@@ -4,14 +4,14 @@
 **Tier:** B  
 **Priority rank:** 26  
 **Open roles count:** 1  
-**Focus:** QA Automation
+**Focus:** Senior Automation QA Engineer — Cloud-to-Cloud Backup
 
 ---
 
 ## Tailoring notes
-- Emphasize experience relevant to **QA Automation**.
-- Prioritize Playwright/Selenium/API automation outcomes and measurable impact.
-- Keep summary concise; align wording to company domain and role seniority.
+- Emphasize Playwright/API/UI automation, regression suites, test documentation, Jenkins/Git/Docker, and Cloud-to-Cloud Backup context.
+- Position Python honestly as practical scripting/automation-adjacent capability rather than strongest current stack.
+- Keep Acronis interview constraint in mind: no AI tools during live interview.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## Identity / Positioning
 
-QA Automation Engineer / SDET / DevOps-aligned QA focused on CI/CD-integrated quality, fast feedback, environment automation, and practical process optimization.
+Senior Automation QA Engineer / SDET focused on Playwright-based UI/API automation, regression reliability, CI/CD-integrated testing, and practical quality ownership for cloud-based products.
 
 ## Core Positioning Summary
 
@@ -29,7 +29,9 @@ He combines classic QA automation foundations with strong hands-on experience in
 
 ## Short Recruiter Summary
 
-QA Automation Engineer with 7+ years of experience across UI/API automation, CI/CD, and DevOps-aligned quality engineering. Strong in Playwright, Selenium, PowerShell, Azure, Azure DevOps, Bicep, and pipeline-driven delivery. Best at improving systems end to end: automation, environments, workflows, observability, and release confidence.
+Senior Automation QA Engineer with 7+ years of experience across UI/API automation, E2E and regression testing, CI/CD quality workflows, framework improvement, and DevOps-aligned QA. Strong fit for Cloud-to-Cloud Backup work requiring Playwright or similar UI automation, API testing, Jenkins/Git/Docker workflows, test documentation, and clear analysis of automation results.
+
+Yauheni’s strongest match is practical automation engineering: improving coverage, keeping tests maintainable, reducing noisy feedback, and helping teams understand release quality. Python is a practical scripting/automation-adjacent area for him, while his recent strongest hands-on stack is Playwright, TypeScript/JavaScript, C#, REST API testing, CI/CD pipelines, and environment-aware debugging.
 
 ## Long Professional Narrative
 
@@ -41,48 +43,58 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 
 ## Core Strengths
 
-- Strong automation mindset and systems thinking
-- Practical process optimization and workflow improvement
-- Azure-based infrastructure automation
-- PowerShell scripting and internal tooling
-- Pipeline automation and CI/CD integration
-- Environment setup, maintenance, and reproducibility
-- Connection between quality and delivery workflows
-- Cross-functional technical support and knowledge sharing
-- Long-term product-context understanding
-- Pragmatic engineering decisions based on business constraints
+- UI/API automation for web and cloud products
+- Playwright automation and Selenium foundation
+- E2E, component, acceptance, and regression testing mindset
+- Test suite and test case design
+- Automation result analysis and failure triage
+- Test documentation and clear communication of test activities
+- CI/CD-integrated testing with Jenkins-style pipelines
+- Git, Docker, and environment-aware debugging
+- QA theory, regression stability, and release confidence
+- Collaboration with product managers, developers, and distributed R&D teams
+- Practical scripting and tooling mindset
+- Detail-oriented ownership in fast-changing product environments
 
 ## Main Stack
 
-- PowerShell
-- Azure
-- Azure DevOps
-- Bicep
-- YAML pipelines
-- C#
-- TypeScript / JavaScript
-- SQL
+- Playwright
 - REST API
-- TestRail
+- UI automation
+- TypeScript / JavaScript
+- Python scripting basics
+- Selenium WebDriver
 - Jenkins
-- TeamCity
+- Git
+- Docker
+- TestRail
+- C#
+- PowerShell
+- Azure DevOps
+- YAML pipelines
+- SQL
 
 ## Additional Tools / Technologies
 
-- Docker
-- Kubernetes
-- Helm
+- E2E testing
+- Component testing
+- Acceptance testing
+- Regression test suites
+- API/UI test automation
+- Test plans / test cases / test results documentation
+- Automation code review mindset
+- Cloud-based product testing
+- Microsoft 365 / cloud systems adaptability
+- Jira
+- Postman / Newman
+- Bash
+- Windows / Linux
+- Azure
+- Docker / Kubernetes support context
 - Grafana
 - Prometheus / Loki
-- Key Vault
-- Application Gateway
-- WAF
-- Virtual Machines
-- Windows / Linux
-- Bash
-- Postman / Newman
-- Selenium
-- Playwright
+- TeamCity
+- TestRail
 - Power Automate
 - FlaUI
 
@@ -164,6 +176,7 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Increased test coverage from around 117 to 199 tests without increasing runtime
 - Reduced log volume from around 1.5 GB to 11 MB per run by removing unnecessary debug logging
 - Made test output much more useful for analysis and triage
+- Improved automation feedback quality so failures were easier to analyze and communicate
 
 **Automation transition story:**
 - Initially worked with an API framework and existing UI automation approaches
@@ -178,6 +191,7 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Enabling manual QA engineers and building automation baseline for wider team use
 - Pragmatic engineering judgment rather than technology ideology
 - Experience with modern AI-assisted tooling such as Cloud Code, ChatGPT, Copilot, and agent-based workflow experiments
+- Practical fit for maintaining reliable regression suites and analyzing automation results in product teams
 
 **Reason for transition / current search direction:**
 - Company priorities shifted more toward development and maintaining existing end-to-end tests, rather than actively expanding automation further

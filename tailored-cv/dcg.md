@@ -4,14 +4,14 @@
 **Tier:** B  
 **Priority rank:** 40  
 **Open roles count:** 1  
-**Focus:** SDET
+**Focus:** Automation Test Engineer — VMware Aria / vRO / vRA Service Broker
 
 ---
 
 ## Tailoring notes
-- Emphasize experience relevant to **SDET**.
-- Prioritize Playwright/Selenium/API automation outcomes and measurable impact.
-- Keep summary concise; align wording to company domain and role seniority.
+- Emphasize infrastructure automation testing, REST API integrations, JavaScript/PowerShell, workflow logic validation, Linux/log diagnostics, structured defect documentation, and enterprise platform context.
+- Position VMware Aria/vRO/vRA as ramp-up domain; connect through practical automation workflow, integrations, and infrastructure experience.
+- Avoid overclaiming custom vRO workflow/action development.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## Identity / Positioning
 
-QA Automation Engineer / SDET / DevOps-aligned QA focused on CI/CD-integrated quality, fast feedback, environment automation, and practical process optimization.
+Automation Test Engineer / QA Automation Engineer focused on infrastructure-aware testing, REST API integrations, workflow validation, CI/CD-aware quality, and practical debugging across automation platforms.
 
 ## Core Positioning Summary
 
@@ -29,7 +29,9 @@ He combines classic QA automation foundations with strong hands-on experience in
 
 ## Short Recruiter Summary
 
-QA Automation Engineer with 7+ years of experience across UI/API automation, CI/CD, and DevOps-aligned quality engineering. Strong in Playwright, Selenium, PowerShell, Azure, Azure DevOps, Bicep, and pipeline-driven delivery. Best at improving systems end to end: automation, environments, workflows, observability, and release confidence.
+Automation Test Engineer with 7+ years of experience across QA automation, REST API testing, infrastructure-aware quality workflows, CI/CD, scripting, and environment diagnostics. Strong fit for roles requiring validation of automation workflows, service request outcomes, REST integrations, workflow dependencies, error handling, structured test documentation, and collaboration with automation engineers, developers, and DevOps teams.
+
+Yauheni has strong practical experience with PowerShell, JavaScript/TypeScript, REST API testing, Azure/Azure DevOps, YAML pipelines, logs, Linux/Windows environments, Docker/Kubernetes support context, and workflow automation. VMware Aria Orchestrator / Service Broker would be a ramp-up area, but the core work pattern matches his background: understand an automation process, validate execution paths, analyze failures, document defects clearly, and improve quality standards.
 
 ## Long Professional Narrative
 
@@ -41,34 +43,56 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 
 ## Core Strengths
 
-- Strong automation mindset and systems thinking
-- Practical process optimization and workflow improvement
-- Azure-based infrastructure automation
-- PowerShell scripting and internal tooling
-- Pipeline automation and CI/CD integration
-- Environment setup, maintenance, and reproducibility
-- Connection between quality and delivery workflows
-- Cross-functional technical support and knowledge sharing
-- Long-term product-context understanding
-- Pragmatic engineering decisions based on business constraints
+- Infrastructure-aware QA automation and workflow validation
+- REST API integration testing
+- JavaScript / TypeScript and PowerShell scripting context
+- Linux logs review, diagnostics, and command-line work
+- JSON structures and parameter validation mindset
+- CI/CD concepts, Git basics, and pipeline-driven quality
+- Structured test cases, test plans, checklists, and defect documentation
+- Workflow dependencies, conditions, inputs/outputs, and error handling
+- Collaboration with automation engineers, developers, and DevOps teams
+- Enterprise infrastructure and integration-platform adaptability
+- Troubleshooting mindset across services, logs, APIs, and environments
+- Continuous improvement of testing processes and automation quality
 
 ## Main Stack
 
 - PowerShell
+- JavaScript / TypeScript
+- REST API testing
+- Postman / Newman
+- curl / HTTP API diagnostics
+- JSON
+- Linux
+- Bash
+- Git
 - Azure
 - Azure DevOps
 - Bicep
 - YAML pipelines
 - C#
-- TypeScript / JavaScript
 - SQL
-- REST API
 - TestRail
 - Jenkins
 - TeamCity
 
 ## Additional Tools / Technologies
 
+- VMware Aria Orchestrator (vRO) ramp-up readiness
+- VMware Aria Automation Service Broker ramp-up readiness
+- vRO workflows/actions/inventory concepts
+- Workflow logic testing
+- Functional and integration testing
+- REST plugin / HTTP integrations awareness
+- Structured defect reports
+- Test plans / test cases / checklists
+- Jira / Confluence
+- Linux logs and diagnostics
+- Monitoring/logging systems awareness
+- MSSQL / PostgreSQL awareness
+- Vault/security platform awareness
+- ITSM platform awareness
 - Docker
 - Kubernetes
 - Helm
@@ -79,8 +103,6 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 - WAF
 - Virtual Machines
 - Windows / Linux
-- Bash
-- Postman / Newman
 - Selenium
 - Playwright
 - Power Automate
@@ -119,6 +141,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 - Built PowerShell scripts, JavaScript and Tampermonkey automations, helper tools, VM utilities, installation automation, and many workflow improvements for self and team
 - Automated repetitive manual flows and removed unnecessary manual steps wherever possible
 - Transitioned naturally from local VM and scripting work into broader Azure and infrastructure automation
+- Validated and supported automation workflows where correctness depended on inputs, execution paths, environment state, logs, and service behavior
 
 **Examples of automation mindset in practice:**
 - Silent installation flows for the product
@@ -126,6 +149,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 - Browser extensions for pipeline-related work
 - JavaScript scripts and shortcuts for repetitive actions
 - Internal helper tools to avoid repeated manual work
+- Workflow helpers and scripts built around real team processes and repeated operational tasks
 
 **DevOps / Infrastructure scope:**
 - Azure infrastructure automation
@@ -135,6 +159,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 - Virtual machines, Key Vault, Application Gateway, WAF, firewall, monitoring, logs, workbooks
 - Environment creation and update automation
 - Internal team workflow improvements
+- Practical troubleshooting of infrastructure automation, environments, logs, and integrations
 
 **Docker / Kubernetes positioning:**
 - Real hands-on experience supporting existing infrastructure
@@ -164,6 +189,7 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Increased test coverage from around 117 to 199 tests without increasing runtime
 - Reduced log volume from around 1.5 GB to 11 MB per run by removing unnecessary debug logging
 - Made test output much more useful for analysis and triage
+- Strengthened API/integration validation signal and made failures easier to investigate
 
 **Automation transition story:**
 - Initially worked with an API framework and existing UI automation approaches
