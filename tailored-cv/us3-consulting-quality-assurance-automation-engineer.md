@@ -168,22 +168,3 @@ Early enterprise automation stage that built strong coding and testing foundatio
 **Bachelor of Science in Digital Economy**  
 Minsk, Belarus  
 **2013 – 2017**
-
----
-
-## Additional Context Relevant to This Role
-
-### Why this role is relevant
-This role is especially interesting because it combines:
-- backend and frontend quality
-- automation strategy
-- workflow/system validation
-- CI/CD integration
-- modern AI-related product context
-
-That combination matches well with my practical profile: I am strongest in roles where quality is treated as a real engineering system spanning automation, workflows, environments, and delivery.
-
-### Honest positioning
-- Strong fit for: **automation strategy, API/UI/workflow testing, CI/CD quality, infrastructure-aware validation**
-- Partial but relevant fit for: **AI/LLM workflow testing**, especially from systems/workflow perspective
-- Less core / should be framed honestly: **pytest-first Python-heavy ownership**, **AWS-heavy background**, **formal LLM evaluation tooling specialization**
