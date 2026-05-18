@@ -195,13 +195,6 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Not a Kubernetes platform architect from scratch
 - Not strongest in purely theoretical or overly abstract engineering discussions without practical grounding
 
-### Best-fit roles
-- QA Automation Engineer
-- SDET
-- DevOps-aligned QA
-- Platform Quality / Delivery Quality / Test Infrastructure-focused QA
-- Automation-heavy roles with CI/CD and systems/process improvement angle
-
 ## Reusable Achievement Themes
 
 - Reducing runtime and increasing delivery speed
@@ -219,11 +212,3 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Modern toolchains and AI-assisted engineering workflows
 - Roles that combine execution with improvement
 - Long-term meaningful projects with real ownership and practical value
-
-## Raw Narrative Source Notes
-
-This file is the distilled version of CV + narrative text + conversation-derived positioning. Future iterations should add:
-- More measurable Leapwork-specific metrics
-- More problem → action → result stories
-- Clearer C# production-experience wording for C#-heavy vacancies
-- ATS keyword blocks per target role

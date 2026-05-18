@@ -220,10 +220,3 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Roles that combine execution with improvement
 - Long-term meaningful projects with real ownership and practical value
 
-## Raw Narrative Source Notes
-
-This file is the distilled version of CV + narrative text + conversation-derived positioning. Future iterations should add:
-- More measurable Leapwork-specific metrics
-- More problem → action → result stories
-- Clearer C# production-experience wording for C#-heavy vacancies
-- ATS keyword blocks per target role

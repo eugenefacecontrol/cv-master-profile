@@ -4,14 +4,14 @@
 **Tier:** A  
 **Priority rank:** 21  
 **Open roles count:** 1  
-**Focus:** QA Automation
+**Focus:** Senior QA Automation Specialist — debt collection web applications
 
 ---
 
 ## Tailoring notes
-- Emphasize experience relevant to **QA Automation**.
-- Prioritize Playwright/Selenium/API automation outcomes and measurable impact.
-- Keep summary concise; align wording to company domain and role seniority.
+- Emphasize senior QA ownership across test planning, manual validation, API testing, and automation.
+- Prioritize Selenium/Playwright, Java-based automation foundation, Postman/REST API testing, Jenkins/CI/CD, and agile collaboration.
+- Position Java honestly as earlier automation foundation rather than current strongest day-to-day stack.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## Identity / Positioning
 
-QA Automation Engineer / SDET / DevOps-aligned QA focused on CI/CD-integrated quality, fast feedback, environment automation, and practical process optimization.
+Senior QA Automation Specialist / QA Automation Engineer / SDET focused on reliable web application testing, API automation, CI/CD-integrated quality, and practical test ownership in agile teams.
 
 ## Core Positioning Summary
 
@@ -29,7 +29,9 @@ He combines classic QA automation foundations with strong hands-on experience in
 
 ## Short Recruiter Summary
 
-QA Automation Engineer with 7+ years of experience across UI/API automation, CI/CD, and DevOps-aligned quality engineering. Strong in Playwright, Selenium, PowerShell, Azure, Azure DevOps, Bicep, and pipeline-driven delivery. Best at improving systems end to end: automation, environments, workflows, observability, and release confidence.
+Senior QA Automation Specialist with 7+ years of experience across web application testing, UI/API automation, manual test cases for complex features, and CI/CD-integrated quality workflows. Strong fit for English-speaking remote projects requiring Selenium/Playwright automation, REST API testing with Postman-style tooling, Jenkins CI/CD pipelines, test case design, and close collaboration with developers on acceptance criteria and release confidence.
+
+Yauheni has a Java/Selenium automation foundation from early enterprise QA work, with recent hands-on strengths in Playwright, TypeScript/JavaScript, C#, REST API framework improvement, CI/CD pipelines, and practical quality ownership. He is strongest in projects where testing combines manual analysis, automation maintenance, framework improvement, and reliable delivery of web applications, including domain-heavy enterprise workflows such as debt collection or financial operations.
 
 ## Long Professional Narrative
 
@@ -41,34 +43,50 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 
 ## Core Strengths
 
-- Strong automation mindset and systems thinking
-- Practical process optimization and workflow improvement
-- Azure-based infrastructure automation
-- PowerShell scripting and internal tooling
-- Pipeline automation and CI/CD integration
-- Environment setup, maintenance, and reproducibility
-- Connection between quality and delivery workflows
-- Cross-functional technical support and knowledge sharing
-- Long-term product-context understanding
-- Pragmatic engineering decisions based on business constraints
+- Senior QA ownership across manual and automated testing
+- Test plan and test case design for web applications
+- Manual test cases for complex web features
+- Selenium / Playwright automation experience
+- Java-based automation foundation from enterprise QA work
+- REST API testing and API framework improvement
+- Postman / Newman-style API validation workflows
+- Jenkins / CI/CD-integrated testing and pipeline tooling
+- Acceptance criteria review and developer collaboration
+- English-speaking remote project collaboration
+- Manual validation of complex product features
+- Pragmatic framework maintenance and test signal improvement
+- Agile delivery mindset and release confidence ownership
+- Practical debugging and root-cause analysis
 
 ## Main Stack
 
-- PowerShell
-- Azure
-- Azure DevOps
-- Bicep
-- YAML pipelines
-- C#
+- Selenium WebDriver
+- Playwright
+- Java automation foundations
 - TypeScript / JavaScript
-- SQL
+- C#
 - REST API
-- TestRail
+- Postman / Newman
 - Jenkins
+- CI/CD pipelines
+- SQL
+- TestRail
+- Azure DevOps
+- YAML pipelines
 - TeamCity
 
 ## Additional Tools / Technologies
 
+- Manual testing
+- Test plans / test cases
+- Acceptance criteria
+- Agile / Scrum
+- Web application testing
+- Debt collection / financial workflow adaptability
+- API framework improvement
+- Performance testing awareness
+- PowerShell
+- Azure
 - Docker
 - Kubernetes
 - Helm
@@ -80,9 +98,6 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 - Virtual Machines
 - Windows / Linux
 - Bash
-- Postman / Newman
-- Selenium
-- Playwright
 - Power Automate
 - FlaUI
 
@@ -103,6 +118,7 @@ EPAM was the starting school that built the classic foundation in enterprise aut
 
 **Value of this period:**
 - Built classic testing and coding foundation
+- Gained Java/Selenium automation grounding relevant to Java-based automation roles
 - Gained early enterprise automation discipline
 - Learned to work with code-based automation in structured environments
 
@@ -119,6 +135,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 - Built PowerShell scripts, JavaScript and Tampermonkey automations, helper tools, VM utilities, installation automation, and many workflow improvements for self and team
 - Automated repetitive manual flows and removed unnecessary manual steps wherever possible
 - Transitioned naturally from local VM and scripting work into broader Azure and infrastructure automation
+- Supported quality workflows for complex web and enterprise application scenarios, combining manual investigation with automation and delivery support
 
 **Examples of automation mindset in practice:**
 - Silent installation flows for the product
@@ -164,6 +181,7 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Increased test coverage from around 117 to 199 tests without increasing runtime
 - Reduced log volume from around 1.5 GB to 11 MB per run by removing unnecessary debug logging
 - Made test output much more useful for analysis and triage
+- Worked closely with developers and QA colleagues to make test results easier to trust and act on
 
 **Automation transition story:**
 - Initially worked with an API framework and existing UI automation approaches

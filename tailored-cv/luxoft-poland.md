@@ -4,14 +4,14 @@
 **Tier:** A  
 **Priority rank:** 1  
 **Open roles count:** 16  
-**Focus:** QA Automation, SDET
+**Focus:** Senior QA Automation Engineer — Data Governance Platform / Collibra migration
 
 ---
 
 ## Tailoring notes
-- Emphasize experience relevant to **QA Automation, SDET**.
-- Prioritize Playwright/Selenium/API automation outcomes and measurable impact.
-- Keep summary concise; align wording to company domain and role seniority.
+- Emphasize senior QA ownership for manual + automated testing across Web UI, API, and backend.
+- Prioritize Selenium, automation-first mindset, BDD/specification by example, API/backend validation, logs/database/Unix analysis, and Agile Scrum collaboration.
+- Mention JMeter/Python carefully as adjacent or growth/awareness areas unless backed by direct stronger experience.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## Identity / Positioning
 
-QA Automation Engineer / SDET / DevOps-aligned QA focused on CI/CD-integrated quality, fast feedback, environment automation, and practical process optimization.
+Senior QA Automation Engineer / SDET focused on automation-first quality, manual and automated validation of web applications, API/backend testing, and practical quality ownership in Scrum delivery teams.
 
 ## Core Positioning Summary
 
@@ -29,7 +29,9 @@ He combines classic QA automation foundations with strong hands-on experience in
 
 ## Short Recruiter Summary
 
-QA Automation Engineer with 7+ years of experience across UI/API automation, CI/CD, and DevOps-aligned quality engineering. Strong in Playwright, Selenium, PowerShell, Azure, Azure DevOps, Bicep, and pipeline-driven delivery. Best at improving systems end to end: automation, environments, workflows, observability, and release confidence.
+Senior QA Automation Engineer with 7+ years of experience across UI/API automation, manual testing, backend-oriented validation, and CI/CD-integrated quality workflows. Strong fit for automation-first Scrum teams that need a healthy mix of manual testing, gradual automation adoption, test planning, regression coverage, issue investigation, and close collaboration with developers, BAs, PMs, DevOps, and business users.
+
+Yauheni has a solid Selenium automation foundation from enterprise QA work and recent hands-on strengths in Playwright, TypeScript/JavaScript, C#, REST API framework improvement, Jenkins/Azure DevOps-style pipelines, SQL/database context, logs/debugging, and environment-aware quality work. He is comfortable analyzing issues across Web UI, API, backend, logs, database queries, and Unix/Linux environments, which fits data governance, Collibra migration, and regulatory reporting platforms where reliability and traceability matter.
 
 ## Long Professional Narrative
 
@@ -41,36 +43,58 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 
 ## Core Strengths
 
-- Strong automation mindset and systems thinking
-- Practical process optimization and workflow improvement
-- Azure-based infrastructure automation
-- PowerShell scripting and internal tooling
-- Pipeline automation and CI/CD integration
-- Environment setup, maintenance, and reproducibility
-- Connection between quality and delivery workflows
-- Cross-functional technical support and knowledge sharing
-- Long-term product-context understanding
-- Pragmatic engineering decisions based on business constraints
+- Automation-first QA mindset with pragmatic manual coverage
+- Senior ownership of test planning and regression strategy
+- Web UI, API, and backend-oriented testing
+- Selenium automation foundation and Playwright experience
+- BDD / specification-by-example aligned test thinking
+- Log analysis, database-query investigation, and Unix/Linux troubleshooting
+- CI/CD-integrated test execution and release confidence
+- Collaboration with developers, BAs, PMs, DevOps, and business users
+- UAT support and business acceptance criteria validation
+- Enterprise workflow and regulatory-style delivery adaptability
+- Collibra migration / data governance platform adaptability
+- Practical framework improvement and test signal optimization
+- Issue analysis, tracking, and root-cause-oriented debugging
 
 ## Main Stack
 
-- PowerShell
-- Azure
-- Azure DevOps
-- Bicep
-- YAML pipelines
+- Selenium WebDriver
+- Playwright
+- REST API testing
+- SQL / database queries
+- Unix / Linux
+- Logs analysis
+- BDD / Gherkin / SpecFlow
 - C#
 - TypeScript / JavaScript
-- SQL
-- REST API
-- TestRail
+- PowerShell
 - Jenkins
+- Azure DevOps
+- YAML pipelines
+- TestRail
 - TeamCity
 
 ## Additional Tools / Technologies
 
+- Manual testing
+- Test plans / test cases
+- Regression testing
+- Functional and non-functional testing
+- Backend testing
+- UAT support
+- JMeter awareness
+- Python scripting basics
+- Postman / Newman
 - Docker
 - Kubernetes
+- Bash
+- Agile / Scrum
+- Issue tracking
+- Enterprise workflow testing
+- Data governance / regulatory reporting adaptability
+- Azure
+- Bicep
 - Helm
 - Grafana
 - Prometheus / Loki
@@ -79,10 +103,6 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 - WAF
 - Virtual Machines
 - Windows / Linux
-- Bash
-- Postman / Newman
-- Selenium
-- Playwright
 - Power Automate
 - FlaUI
 
@@ -100,11 +120,13 @@ EPAM was the starting school that built the classic foundation in enterprise aut
 - NUnit
 - Some mobile automation through Xamarin
 - Regression coverage in enterprise environments
+- Manual and automated validation in structured enterprise delivery
 
 **Value of this period:**
 - Built classic testing and coding foundation
 - Gained early enterprise automation discipline
 - Learned to work with code-based automation in structured environments
+- Built a Selenium foundation relevant to automation-first QA roles
 
 ### Leapwork — Tester / DevOps Engineer
 **Minsk, Belarus / Kraków, Poland**  
@@ -119,6 +141,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 - Built PowerShell scripts, JavaScript and Tampermonkey automations, helper tools, VM utilities, installation automation, and many workflow improvements for self and team
 - Automated repetitive manual flows and removed unnecessary manual steps wherever possible
 - Transitioned naturally from local VM and scripting work into broader Azure and infrastructure automation
+- Worked with complex enterprise workflows where issue investigation often required looking beyond the UI into environments, logs, services, and data/state conditions
 
 **Examples of automation mindset in practice:**
 - Silent installation flows for the product
@@ -135,6 +158,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 - Virtual machines, Key Vault, Application Gateway, WAF, firewall, monitoring, logs, workbooks
 - Environment creation and update automation
 - Internal team workflow improvements
+- Practical Unix/Linux, container, and service-debugging context for backend-facing QA work
 
 **Docker / Kubernetes positioning:**
 - Real hands-on experience supporting existing infrastructure
@@ -152,6 +176,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 - Worked extensively around enterprise application workflows, especially Dynamics 365
 - Some exposure to Salesforce-related scenarios
 - Solid experience with green-screen style applications in banking-related contexts
+- Useful fit for data governance / regulatory-reporting environments where business data flows, traceability, and careful validation matter
 
 ### Definely — QA Automation Engineer
 **Kraków, Poland**  
@@ -164,6 +189,7 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Increased test coverage from around 117 to 199 tests without increasing runtime
 - Reduced log volume from around 1.5 GB to 11 MB per run by removing unnecessary debug logging
 - Made test output much more useful for analysis and triage
+- Strengthened API/backend validation signal and made failures easier for developers and QA to investigate
 
 **Automation transition story:**
 - Initially worked with an API framework and existing UI automation approaches
@@ -178,6 +204,7 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Enabling manual QA engineers and building automation baseline for wider team use
 - Pragmatic engineering judgment rather than technology ideology
 - Experience with modern AI-assisted tooling such as Cloud Code, ChatGPT, Copilot, and agent-based workflow experiments
+- Practical balance of manual testing, automation, framework work, and team enablement
 
 **Reason for transition / current search direction:**
 - Company priorities shifted more toward development and maintaining existing end-to-end tests, rather than actively expanding automation further
