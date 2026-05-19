@@ -52,6 +52,20 @@ CHIP_SECTIONS = {
 COMPACT_SKILLS_SECTION = "technical skills"
 
 
+CONTACT_LINES = [
+    "**Phone:** +48 572 230 851  ",
+    "**Email:** yauhenisheima@gmail.com  ",
+    "**LinkedIn:** https://www.linkedin.com/in/yauhei-sheima/  ",
+]
+
+
+CONTACT_PATTERNS = [
+    re.compile(r"\+?48\s*572\s*230\s*851"),
+    re.compile(r"yauhenisheima@gmail\.com", re.IGNORECASE),
+    re.compile(r"linkedin\.com/in/yauhei-sheima/?", re.IGNORECASE),
+]
+
+
 FALLBACK_CSS = """
 :root {
   --text: #1f2937;
@@ -127,6 +141,8 @@ def clean_markdown(text: str) -> str:
     lines = strip_leading_internal_brief(text.splitlines())
     output: list[str] = []
     skipped_stack: list[int] = []
+    contact_inserted = False
+    source_has_contact = all(pattern.search(text) for pattern in CONTACT_PATTERNS)
 
     for line in lines:
         heading = parse_heading(line)
@@ -145,6 +161,16 @@ def clean_markdown(text: str) -> str:
 
         if not skipped_stack:
             output.append(line)
+            if (
+                not source_has_contact
+                and not contact_inserted
+                and heading
+                and heading[0] == 1
+                and "yauheni sheima" in heading[1]
+            ):
+                output.append("")
+                output.extend(CONTACT_LINES)
+                contact_inserted = True
 
     cleaned = "\n".join(output).strip()
     return cleaned + "\n"
