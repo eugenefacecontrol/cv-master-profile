@@ -46,6 +46,7 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 - C#
 - TypeScript / JavaScript
 - SQL
+- PostgreSQL
 - REST API
 - TestRail
 - Jenkins
@@ -201,6 +202,7 @@ At Definely, the focus returned more strongly to framework improvement, test aut
 - Increased test coverage from around 117 to 199 tests without increasing runtime
 - Reduced log volume from around 1.5 GB to 11 MB per run by removing unnecessary debug logging
 - Made test output much more useful for analysis and triage
+- Used PostgreSQL on the project in QA/testing work
 
 **Automation transition story:**
 - Initially worked with an API framework and existing UI automation approaches
