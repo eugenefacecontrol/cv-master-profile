@@ -11,9 +11,9 @@
 
 ## Professional Summary
 
-Senior QA Automation Engineer / SDET with 7+ years of experience across UI/API automation, test planning, CI/CD-integrated quality, framework improvement, and practical debugging in complex product environments.
+Senior QA Automation Engineer / SDET with 7+ years of experience in UI/API automation, CI/CD-integrated testing, framework improvement, and infrastructure-aware quality engineering.
 
-Relevant to N-iX through Playwright/TypeScript automation direction, REST API testing, SQL/data validation, test case design from requirements, defect triage, Agile collaboration, and modern AI-assisted QA/tooling workflows.
+For N-iX: Playwright/TypeScript automation direction, REST API testing, SQL/data validation, test case design from requirements, defect triage, Agile collaboration, and modern AI-assisted QA/tooling workflows.
 
 ---
 
@@ -47,29 +47,29 @@ Relevant to N-iX through Playwright/TypeScript automation direction, REST API te
 **Krakow, Poland**  
 **06/2025 - 03/2026**
 
-- Improved and extended an API automation framework, increasing test coverage from around 117 to 199 tests.
-- Reduced log output from around 1.5 GB to 11 MB per run, improving signal quality and triage speed.
-- Supported transition toward Playwright with TypeScript as a maintainable UI automation direction.
-- Improved reliability and readability of automation feedback for faster defect analysis.
-- Worked with QA and development stakeholders on acceptance criteria, evidence, and release confidence.
+- Refactored and extended an API automation framework, raising coverage from around 117 to 199 tests without adding runtime.
+- Cut automation log output from around 1.5 GB to 11 MB per run, making failures easier to analyze and route.
+- Used API-driven setup and backend validation to shorten scenario validation from 5+ minutes to about 1 minute.
+- Supported the Playwright and TypeScript automation direction for maintainable UI checks.
+- Worked with QA and developers on acceptance criteria, defect evidence, and release readiness.
 
-## Leapwork - Tester / DevOps Engineer
+## Leapwork - QA Automation Engineer (DevOps & Automation Focus)
 **Krakow, Poland / Minsk, Belarus**  
 **11/2018 - 03/2025**
 
-- Built PowerShell scripts, JavaScript/Tampermonkey automations, helper tools, VM utilities, and installation automation.
-- Supported Azure DevOps pipelines, YAML workflows, logs, monitoring, virtual machines, and environment checks.
-- Automated repetitive workflows and improved reproducibility of internal quality/release support tasks.
-- Worked with product teams on complex enterprise application workflows and practical troubleshooting.
-- Used Docker/Kubernetes support tools for logs, services, debugging, and deployment-support tasks.
+- Automated reproducible test and release-support environments with PowerShell, Azure DevOps YAML, Bicep, and VM tooling.
+- Built scripts, browser helpers, and installation automations that removed repeated manual QA and support steps.
+- Integrated regression checks, environment diagnostics, logs, and monitoring into CI/CD workflows for faster engineering feedback.
+- Used Docker/Kubernetes support tools to inspect services, logs, deployments, and environment failures.
+- Helped engineers troubleshoot product workflows, release issues, and automation blockers.
 
 ## EPAM Systems - Automation QA Engineer / Tester (.NET)
 **Minsk, Belarus**  
 **09/2017 - 11/2018**
 
-- Worked with Java, C#, Selenium WebDriver, NUnit, Jenkins, and enterprise regression automation.
-- Designed and maintained automated test cases for core business flows.
-- Built foundations in structured QA documentation, CI failure analysis, and maintainable automation.
+- Developed and maintained Selenium WebDriver regression tests with C#, Java, NUnit, and Jenkins.
+- Analyzed CI failures, prepared defect evidence, and supported enterprise release quality.
+- Added reusable helpers and documentation for maintainable automation work.
 
 ---
 

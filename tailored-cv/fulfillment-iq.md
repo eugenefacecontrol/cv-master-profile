@@ -11,9 +11,9 @@
 
 ## Professional Summary
 
-QA Automation Engineer / SDET with 7+ years of experience across UI/API automation, backend validation, CI/CD-integrated testing, framework improvement, exploratory testing, SQL-supported investigation, and practical debugging.
+Senior QA Automation Engineer / SDET with 7+ years of experience in UI/API automation, CI/CD-integrated testing, framework improvement, and infrastructure-aware quality engineering.
 
-Relevant to Fulfillment IQ through Playwright automation direction, REST API and backend testing, Postgres/SQL validation, Azure DevOps/YAML delivery context, manual plus automation coverage, and hands-on automation framework improvement. Python is a practical scripting/ramp-up area supported by broader automation experience.
+For Fulfillment IQ: Playwright automation direction, REST API and backend testing, Postgres/SQL validation, Azure DevOps/YAML delivery context, manual plus automation coverage, and hands-on automation framework improvement. Python is a practical scripting/ramp-up area supported by broader automation experience.
 
 ---
 
@@ -48,29 +48,29 @@ Relevant to Fulfillment IQ through Playwright automation direction, REST API and
 **Krakow, Poland**  
 **06/2025 - 03/2026**
 
-- Improved and extended an API automation framework, increasing coverage from around 117 to 199 tests.
-- Reduced log output from around 1.5 GB to 11 MB per run, making CI feedback easier to analyze.
-- Used PostgreSQL/backend context in QA work for validation, investigation, and defect analysis.
-- Supported transition toward Playwright with TypeScript as a maintainable UI automation direction.
-- Worked with QA and development stakeholders on acceptance criteria, defect evidence, and release confidence.
+- Refactored and extended an API automation framework, raising coverage from around 117 to 199 tests without adding runtime.
+- Cut automation log output from around 1.5 GB to 11 MB per run, making failures easier to analyze and route.
+- Used API-driven setup and backend validation to shorten scenario validation from 5+ minutes to about 1 minute.
+- Supported the Playwright and TypeScript automation direction for maintainable UI checks.
+- Worked with QA and developers on acceptance criteria, defect evidence, and release readiness.
 
-## Leapwork - Tester / DevOps Engineer
+## Leapwork - QA Automation Engineer (DevOps & Automation Focus)
 **Krakow, Poland / Minsk, Belarus**  
 **11/2018 - 03/2025**
 
-- Built PowerShell scripts, JavaScript/Tampermonkey automations, helper tools, VM utilities, and installation automation.
-- Supported Azure DevOps pipelines, YAML workflows, logs, monitoring, virtual machines, and internal tooling.
-- Automated repetitive workflows and improved reproducibility of environment/release support tasks.
-- Worked with Docker/Kubernetes support scenarios including logs, services, and debugging.
-- Helped teams diagnose product workflows, installation issues, and release-support problems.
+- Automated reproducible test and release-support environments with PowerShell, Azure DevOps YAML, Bicep, and VM tooling.
+- Built scripts, browser helpers, and installation automations that removed repeated manual QA and support steps.
+- Integrated regression checks, environment diagnostics, logs, and monitoring into CI/CD workflows for faster engineering feedback.
+- Used Docker/Kubernetes support tools to inspect services, logs, deployments, and environment failures.
+- Helped engineers troubleshoot product workflows, release issues, and automation blockers.
 
 ## EPAM Systems - Automation QA Engineer / Tester (.NET)
 **Minsk, Belarus**  
 **09/2017 - 11/2018**
 
-- Worked with Java, C#, Selenium WebDriver, NUnit, and Jenkins in enterprise automation contexts.
-- Maintained UI regression automation and analyzed failures in CI-driven regression runs.
-- Built foundations in maintainable automated test scripts and structured defect reporting.
+- Developed and maintained Selenium WebDriver regression tests with C#, Java, NUnit, and Jenkins.
+- Analyzed CI failures, prepared defect evidence, and supported enterprise release quality.
+- Added reusable helpers and documentation for maintainable automation work.
 
 ---
 
