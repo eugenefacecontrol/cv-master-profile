@@ -59,10 +59,40 @@ CONTACT_LINES = [
 ]
 
 
+EDUCATION_LINES = [
+    "## Education",
+    "",
+    "**Belarusian State University of Informatics and Radioelectronics (BSUIR)**  ",
+    "**Bachelor of Science in Digital Economy**  ",
+    "Minsk, Belarus  ",
+    "**2013 - 2017**",
+]
+
+
+GDPR_CONSENT = (
+    "*I agree to the processing of personal data provided in this document for "
+    "recruitment purposes pursuant to applicable data protection laws, including "
+    "GDPR (EU) 2016/679.*"
+)
+
+
 CONTACT_PATTERNS = [
     re.compile(r"\+?48\s*572\s*230\s*851"),
     re.compile(r"yauhenisheima@gmail\.com", re.IGNORECASE),
     re.compile(r"linkedin\.com/in/yauhei-sheima/?", re.IGNORECASE),
+]
+
+
+EDUCATION_PATTERNS = [
+    re.compile(r"^##\s+education\s*$", re.IGNORECASE | re.MULTILINE),
+    re.compile(r"belarusian\s+state\s+university\s+of\s+informatics", re.IGNORECASE),
+    re.compile(r"\bbsuir\b", re.IGNORECASE),
+]
+
+
+GDPR_PATTERNS = [
+    re.compile(r"processing\s+of\s+personal\s+data", re.IGNORECASE),
+    re.compile(r"\bgdpr\b", re.IGNORECASE),
 ]
 
 
@@ -108,6 +138,27 @@ a { color: #0b5cab; text-decoration: none; }
 """.strip()
 
 
+PDF_LAYOUT_OVERRIDES = """
+/* WeasyPrint can leave large vertical gaps when a free-flowing chip group
+   crosses a page boundary. Explicit rows keep chip layout predictable. */
+.chips {
+  display: block;
+}
+.chip-row {
+  margin: 0 0 1.3mm;
+}
+.chip {
+  display: inline-block;
+  max-width: 100%;
+  margin: 0 5px 0 0;
+  white-space: normal;
+}
+h2 {
+  break-after: avoid;
+}
+""".strip()
+
+
 def normalize_heading(text: str) -> str:
     text = re.sub(r"<[^>]+>", "", text)
     text = re.sub(r"[*_]+", "", text)
@@ -143,6 +194,8 @@ def clean_markdown(text: str) -> str:
     skipped_stack: list[int] = []
     contact_inserted = False
     source_has_contact = all(pattern.search(text) for pattern in CONTACT_PATTERNS)
+    source_has_education = any(pattern.search(text) for pattern in EDUCATION_PATTERNS)
+    source_has_gdpr = any(pattern.search(text) for pattern in GDPR_PATTERNS)
 
     for line in lines:
         heading = parse_heading(line)
@@ -173,6 +226,10 @@ def clean_markdown(text: str) -> str:
                 contact_inserted = True
 
     cleaned = "\n".join(output).strip()
+    if not source_has_education:
+        cleaned = f"{cleaned}\n\n" + "\n".join(EDUCATION_LINES)
+    if not source_has_gdpr:
+        cleaned = f"{cleaned}\n\n---\n\n{GDPR_CONSENT}"
     return cleaned + "\n"
 
 
@@ -190,12 +247,34 @@ def bullet_text(line: str) -> str:
     return strip_inline_markdown(re.sub(r"^\s*[-*]\s+", "", line).strip())
 
 
+def chip_rows(items: list[str], max_chars: int = 190) -> list[list[str]]:
+    rows: list[list[str]] = []
+    current: list[str] = []
+    current_len = 0
+
+    for item in items:
+        item_len = len(item) + 4
+        if current and current_len + item_len > max_chars:
+            rows.append(current)
+            current = [item]
+            current_len = item_len
+        else:
+            current.append(item)
+            current_len += item_len
+
+    if current:
+        rows.append(current)
+
+    return rows
+
+
 def chip_block(items: list[str]) -> list[str]:
     if not items:
         return []
     lines = ['<div class="chips">']
-    for item in items:
-        lines.append(f'  <span class="chip">{html.escape(item)}</span>')
+    for row in chip_rows(items):
+        chips = "".join(f'<span class="chip">{html.escape(item)}</span>' for item in row)
+        lines.append(f'  <p class="chip-row">{chips}</p>')
     lines.append("</div>")
     lines.append("")
     return lines
@@ -266,12 +345,12 @@ def format_skills_markdown(markdown: str) -> str:
 
 def load_css() -> str:
     if not STYLE_HTML.exists():
-        return FALLBACK_CSS
+        return f"{FALLBACK_CSS}\n\n{PDF_LAYOUT_OVERRIDES}"
     content = STYLE_HTML.read_text(encoding="utf-8", errors="replace")
     match = re.search(r"<style>(.*?)</style>", content, re.DOTALL | re.IGNORECASE)
     if not match:
-        return FALLBACK_CSS
-    return match.group(1).strip()
+        return f"{FALLBACK_CSS}\n\n{PDF_LAYOUT_OVERRIDES}"
+    return f"{match.group(1).strip()}\n\n{PDF_LAYOUT_OVERRIDES}"
 
 
 def run(command: list[str]) -> subprocess.CompletedProcess[str]:

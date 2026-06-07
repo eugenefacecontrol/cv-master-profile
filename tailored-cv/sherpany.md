@@ -137,7 +137,7 @@ This was the longest and most formative stage of the career. Although part of th
 
 ### Definely — QA Automation Engineer
 **Kraków, Poland**  
-**06/2025 – 03/2026**
+**06/2025 – Present**
 
 At Definely, the focus returned more strongly to framework improvement, test automation strategy, and quality support in a complex product environment.
 

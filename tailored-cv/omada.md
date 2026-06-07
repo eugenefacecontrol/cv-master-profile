@@ -134,7 +134,7 @@ This was the longest and most formative product stage, combining QA, automation 
 
 ### Definely - QA Automation Engineer
 **Krakow, Poland**  
-**06/2025 - 03/2026**
+**06/2025 - Present**
 
 At Definely, the focus returned more strongly to automation framework improvement, backend/API validation, and quality support in a complex product environment.
 

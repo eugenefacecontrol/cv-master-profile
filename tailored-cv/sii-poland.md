@@ -41,8 +41,6 @@ Best fit for QA automation roles where reliability depends not only on test code
 - REST API testing, Postman/Newman, SQL/PostgreSQL validation
 - PowerShell, C#, TypeScript/JavaScript, Java, practical Python exposure
 - Automation framework improvement and maintainability
-- Hardware-adjacent environment and VM-based validation experience
-- Practical engineering mindset: remove manual repetition and improve feedback loops
 
 ## Main Stack
 
@@ -115,7 +113,7 @@ Best fit for QA automation roles where reliability depends not only on test code
 
 ## Definely - QA Automation Engineer
 **Krakow, Poland**  
-**06/2025 - 03/2026**
+**06/2025 - Present**
 
 Worked in a complex product environment with focus on API automation, test framework improvement, CI signal quality, and pragmatic automation strategy.
 
@@ -197,4 +195,3 @@ Minsk, Belarus
 ---
 
 *I agree to the processing of personal data provided in this document for recruitment purposes pursuant to applicable data protection laws, including GDPR (EU) 2016/679.*
-

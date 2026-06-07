@@ -45,7 +45,7 @@ Experienced in improving test frameworks, stabilizing automation signal quality,
 
 ### Definely — QA Automation Engineer  
 **Kraków, Poland**  
-**06/2025 – 03/2026**
+**06/2025 – Present**
 
 - Improved and extended API automation framework to support broader test scenarios
 - Increased coverage from **117 to 199 automated tests** without runtime growth

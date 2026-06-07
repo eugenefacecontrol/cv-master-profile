@@ -94,7 +94,7 @@ Best positioned in roles that combine automation strategy, practical engineering
 
 ## Definely — QA Automation Engineer  
 **Kraków, Poland**  
-**06/2025 – 03/2026**
+**06/2025 – Present**
 
 Worked in a complex product environment with strong focus on framework improvement, test automation strategy, and quality support across changing automation approaches.
 

@@ -76,7 +76,7 @@ Best matched to projects where quality engineering is growing from manual-heavy 
 
 ## Definely — QA Automation Engineer  
 **Kraków, Poland**  
-**06/2025 – 03/2026**
+**06/2025 – Present**
 
 Worked in a complex product environment with strong focus on improving existing automation, increasing coverage, and supporting the team through changing automation approaches.
 

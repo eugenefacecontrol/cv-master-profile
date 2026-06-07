@@ -29,9 +29,9 @@ He combines classic QA automation foundations with strong hands-on experience in
 
 ## Short Recruiter Summary
 
-Automation Test Engineer with 7+ years of experience across UI/API automation, manual testing, backend-oriented validation, and CI/CD-integrated quality workflows. Strong fit for payments-platform roles that need reliable automated coverage, lower regression effort, clear defect evidence, and confidence across critical processing journeys.
+Automation Test Engineer with 7+ years of experience across Java/Selenium automation foundations, UI/API automation, backend-oriented validation, integration testing, and CI/CD-integrated quality workflows. Strong fit for payments-platform automation roles that need reliable Java-based test suites, REST/SOAP service-level checks, contract/schema validation awareness, SQL-backed investigation, clear defect evidence, and confidence across critical processing journeys.
 
-Yauheni has a Java/Selenium automation foundation from enterprise QA work and recent hands-on strengths in Playwright, TypeScript/JavaScript, C#, REST API framework improvement, Jenkins/Azure DevOps-style pipelines, SQL/database context, logs/debugging, and environment-aware quality work. He is comfortable validating end-to-end flows across UI, API, backend, logs, database queries, and Unix/Linux environments, which fits payments automation where traceability, controls, data correctness, quality gates, and release readiness matter.
+Yauheni has a Java/Selenium automation foundation from enterprise QA work and recent hands-on strengths in Playwright, TypeScript/JavaScript, C#, REST API framework improvement, Postman/Newman, Jenkins/Azure DevOps-style pipelines, SQL/database context, logs/debugging, and environment-aware quality work. He is comfortable validating end-to-end flows across UI, API, backend, logs, database queries, and Unix/Linux environments, which fits payment automation where traceability, controls, data correctness, quality gates, and release readiness matter. Payments specifics such as ISO 20022, SWIFT MT/MX, cut-off times, value dates, returns, reversals, rejects/repairs, sanctions/AML touchpoints, and reconciliation are positioned as banking/payment workflow context and focused ramp-up areas, not overstated long-term domain ownership.
 
 ## Long Professional Narrative
 
@@ -44,6 +44,9 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 ## Core Strengths
 
 - Automation-first QA mindset with pragmatic manual coverage
+- Java-based automation test suites for UI, API, and integration layers
+- Payments-platform automation fit: credit transfers, direct debits, SWIFT/ISO 20022 awareness
+- REST/SOAP API checks, contract/schema validation awareness, and SQL-backed diagnostics
 - Maintainable UI/API automation and regression coverage
 - Java/Selenium automation foundation and Playwright experience
 - API/service-level validation and framework improvement
@@ -199,7 +202,7 @@ Initially the work was closer to QA and automation around a no-code automation p
 
 ### Definely — QA Automation Engineer
 **Kraków, Poland**  
-**06/2025 – 03/2026**
+**06/2025 – Present**
 
 At Definely, the focus returned more strongly to framework improvement, test automation strategy, and quality support in a complex product environment.
 

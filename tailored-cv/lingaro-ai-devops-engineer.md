@@ -49,7 +49,7 @@ Actively applying **AI-assisted engineering** (ChatGPT, Copilot, Claude Code) in
 
 ### Definely — QA Automation Engineer  
 **Kraków, Poland**  
-**06/2025 – 03/2026**
+**06/2025 – Present**
 
 - Improved API automation framework and expanded coverage from **117 to 199 tests** without runtime growth
 - Reduced CI log volume from ~**1.69 GB to 11 MB**, improving triage speed and delivery signal quality

@@ -44,7 +44,7 @@ Relevant to INQUD through fintech/payment-flow readiness, REST API testing, auto
 
 ## Definely - QA Automation Engineer
 **Krakow, Poland**  
-**06/2025 - 03/2026**
+**06/2025 - Present**
 
 - Improved and extended an API automation framework for broader team use.
 - Increased coverage from around 117 to 199 automated tests without increasing total runtime.

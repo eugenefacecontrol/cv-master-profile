@@ -45,7 +45,7 @@ For N-iX: Playwright/TypeScript automation direction, REST API testing, SQL/data
 
 ## Definely - QA Automation Engineer
 **Krakow, Poland**  
-**06/2025 - 03/2026**
+**06/2025 - Present**
 
 - Refactored and extended an API automation framework, raising coverage from around 117 to 199 tests without adding runtime.
 - Cut automation log output from around 1.5 GB to 11 MB per run, making failures easier to analyze and route.

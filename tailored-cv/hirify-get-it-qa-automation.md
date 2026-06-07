@@ -46,7 +46,7 @@ Relevant to this Middle/Senior QA Automation role through JavaScript/TypeScript 
 
 ## Definely - QA Automation Engineer
 **Krakow, Poland**  
-**06/2025 - 03/2026**
+**06/2025 - Present**
 
 - Improved and extended an API automation framework, increasing coverage from around 117 to 199 tests.
 - Reduced log output from around 1.5 GB to 11 MB per run, improving signal quality and failure analysis.

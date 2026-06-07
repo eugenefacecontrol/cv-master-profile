@@ -1,0 +1,43 @@
+ ▐▛███▜▌   Claude Code v2.1.140
+▝▜█████▛▘  inclusionai/ring-2.6-1t:free · API Usage Billing
+  ▘▘ ▝▝    ~/.openclaw/workspace/cv-master-profile
+
+✻ Conversation compacted (ctrl+o for history)
+
+  ⎿  Read make_pdfs_fixed.py (126 lines)
+  ⎿  Read make_pdfs_final.py (126 lines)
+  ⎿  Read make_pdfs.py (125 lines)
+  ⎿  Read generate_all_pdfs.py (130 lines)
+  ⎿  Read generate_pdfs_final.py (96 lines)
+
+⏺ Provider API request failed. (request_id=req_ac16d9dc6b1a)
+
+✻ Sautéed for 3s
+
+❯ /export                                                                       
+  ⎿  Conversation exported to:
+     /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/2026-05-17-12382
+     5-this-session-is-being-continued-from-a-previous-c.txt
+
+❯ /model                                                                        
+  ⎿  Set model to Sonnet 4.6 (1M context)
+
+❯ Check                                                                         
+
+⏺ Provider API request failed. (request_id=req_6d914cadbf53)
+
+✻ Churned for 0s
+
+❯ /export                                                                       
+  ⎿  Conversation exported to:
+     /Users/yauhenisheima/.openclaw/workspace/cv-master-profile/2026-05-17-12384
+     7-this-session-is-being-continued-from-a-previous-c.txt
+
+❯ /model                                                                        
+  ⎿  Set model to Haiku 4.5
+
+❯ Check                                                                         
+  ⎿  Interrupted · What should Claude do instead?
+
+❯ /export                                                                       
+  ⎿  Export cancelled

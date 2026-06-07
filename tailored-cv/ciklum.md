@@ -1,17 +1,18 @@
 # Tailored CV — Ciklum
 
 **Target company:** Ciklum  
-**Tier:** A  
-**Priority rank:** 12  
-**Open roles count:** 2  
-**Focus:** QA / test engineering
+**Target role:** Automation QA Engineer  
+**Job link:** https://www.linkedin.com/jobs/view/4413298831  
+**Project context:** B&R Industrial Automation RAG architecture upgrade; evaluation lifecycle, golden dataset, RAGAS evaluation harness, CI/CD regression guardrails, hallucination tracking, latency benchmarking.  
+**Focus:** QA automation, evaluation systems, CI/CD quality gates, Python-supported automation, metrics-driven error analysis.
 
 ---
 
 ## Tailoring notes
-- Emphasize experience relevant to **QA / test engineering**.
-- Prioritize Playwright/Selenium/API automation outcomes and measurable impact.
-- Keep summary concise; align wording to company domain and role seniority.
+- Position as a QA Automation Engineer with strong CI/CD, test-framework improvement, metrics, observability, and practical automation background.
+- Emphasize evaluation mindset, baselines, regression gates, root-cause classification, logs/telemetry, and structured reporting.
+- Keep RAGAS / LLM evaluation frameworks honest: fast ramp-up and adjacent AI-assisted workflow experience, not long production ownership.
+- Stress Azure DevOps, Python/PowerShell automation, API framework improvement, and data-driven quality feedback.
 
 ---
 
@@ -19,72 +20,65 @@
 
 ## Identity / Positioning
 
-QA Automation Engineer / SDET / DevOps-aligned QA focused on CI/CD-integrated quality, fast feedback, environment automation, and practical process optimization.
-
-## Core Positioning Summary
-
-Yauheni Sheima is an automation-focused engineer with a background spanning QA Automation, DevOps-aligned infrastructure work, pipeline-driven delivery, and internal tooling. His strongest value is practical engineering: understanding how systems work, finding bottlenecks, removing repetitive manual effort, and improving workflows through automation.
-
-He combines classic QA automation foundations with strong hands-on experience in PowerShell, Azure, Azure DevOps, Bicep, YAML pipelines, environment automation, and delivery support. Rather than positioning as either a pure market-style DevOps engineer or a narrowly scoped QA specialist, he works at the intersection of test automation, infrastructure-aware quality, internal tooling, and process optimization.
+QA Automation Engineer / SDET focused on CI/CD-integrated quality, automation frameworks, evaluation-style testing, observability-informed analysis, and practical process optimization.
 
 ## Short Recruiter Summary
 
-QA Automation Engineer with 7+ years of experience across UI/API automation, CI/CD, and DevOps-aligned quality engineering. Strong in Playwright, Selenium, PowerShell, Azure, Azure DevOps, Bicep, and pipeline-driven delivery. Best at improving systems end to end: automation, environments, workflows, observability, and release confidence.
+QA Automation Engineer with 7+ years of experience across UI/API automation, CI/CD, framework improvement, and DevOps-aligned quality engineering. Strong in Azure DevOps, PowerShell, Playwright, Selenium, REST API testing, SQL/PostgreSQL context, and pipeline-driven delivery. Particularly effective in building automated checks, improving feedback quality, reducing noisy test output, and turning failures into clear root-cause signals for engineering teams.
 
-## Long Professional Narrative
+## Role-Fit Summary For Ciklum
 
-I started as a QA Automation Engineer and over time moved deeper into DevOps and infrastructure automation. For me, that was not a radical switch but a natural continuation of the same core interest: automation.
+This role needs a quality engineer who can own evaluation workflows, create repeatable acceptance baselines, automate regression checks in CI/CD, and explain quality metrics clearly to technical stakeholders. My strongest fit is in practical automation: improving test frameworks, integrating checks into pipelines, using logs and metrics to guide triage, and building structured feedback loops that help teams make safer release decisions.
 
-I am strongly driven by optimization. If I see a repetitive manual process, I almost automatically start thinking about how to reduce it, connect it with another tool, automate it, or remove it completely. That mindset applies both to work and outside work. I enjoy understanding how systems work, removing routine, building useful internal tools, and making team workflows easier and faster.
-
-Today, my profile sits at the intersection of QA Automation, DevOps-aligned delivery, infrastructure and environment automation, internal tooling, and process improvement. My strongest side is not theory for the sake of theory, but practical engineering and automation: identifying bottlenecks, building solutions from available tools, and improving the way work gets done.
+I have not owned a production RAGAS implementation end to end, so I would not present myself as a long-time LLM evaluation specialist. The honest fit is a QA automation / evaluation engineer who can ramp quickly into RAGAS, DeepEval-style workflows, and LLM quality measurement because the underlying work pattern is familiar: define expected behavior, build datasets and baselines, automate repeatable checks, monitor regressions, classify failures, and make the results actionable for engineering.
 
 ## Core Strengths
 
-- Strong automation mindset and systems thinking
-- Practical process optimization and workflow improvement
-- Azure-based infrastructure automation
-- PowerShell scripting and internal tooling
-- Pipeline automation and CI/CD integration
-- Environment setup, maintenance, and reproducibility
-- Connection between quality and delivery workflows
-- Cross-functional technical support and knowledge sharing
-- Long-term product-context understanding
-- Pragmatic engineering decisions based on business constraints
+- QA automation across UI, API, framework, and delivery workflows
+- CI/CD-integrated quality gates and regression feedback
+- Azure DevOps pipelines and YAML-based delivery automation
+- Test framework improvement and maintainability work
+- Error analysis, triage, and practical root-cause classification
+- Reducing noisy logs and improving signal quality in test output
+- Metrics-minded quality reporting and release confidence
+- Python and PowerShell scripting for automation gaps and tooling
+- SQL / PostgreSQL context for test data and backend validation
+- Observability-adjacent work with Grafana, logs, monitoring, and dashboards
+- Cross-functional collaboration with QA, developers, DevOps, and product stakeholders
 
 ## Main Stack
 
-- PowerShell
-- Azure
 - Azure DevOps
-- Bicep
 - YAML pipelines
-- C#
+- PowerShell
+- Python
 - TypeScript / JavaScript
-- SQL
-- REST API
+- Playwright
+- Selenium
+- REST API testing
+- SQL / PostgreSQL
+- C#
 - TestRail
 - Jenkins
 - TeamCity
 
 ## Additional Tools / Technologies
 
+- Azure
+- Bicep
 - Docker
 - Kubernetes
 - Helm
 - Grafana
 - Prometheus / Loki
-- Key Vault
-- Application Gateway
-- WAF
-- Virtual Machines
+- Azure monitoring / workbooks
+- Postman / Newman
+- FlaUI
+- Power Automate
+- Git
 - Windows / Linux
 - Bash
-- Postman / Newman
-- Selenium
-- Playwright
-- Power Automate
-- FlaUI
+- AI-assisted engineering tools: ChatGPT, Copilot, Claude Code
 
 ## Experience
 
@@ -92,131 +86,103 @@ Today, my profile sits at the intersection of QA Automation, DevOps-aligned deli
 **Minsk, Belarus**  
 **09/2017 – 11/2018**
 
-EPAM was the starting school that built the classic foundation in enterprise automation and coding-based testing.
+EPAM built the classic foundation in enterprise automation, regression testing, and code-based QA practices.
 
 **Focus areas:**
 - Java and C# automation foundations
-- Selenium WebDriver
-- NUnit
-- Some mobile automation through Xamarin
+- Selenium WebDriver and NUnit-based test automation
 - Regression coverage in enterprise environments
+- Early experience with structured QA processes and team delivery
 
-**Value of this period:**
-- Built classic testing and coding foundation
-- Gained early enterprise automation discipline
-- Learned to work with code-based automation in structured environments
+**Relevant value for Ciklum:**
+- Built baseline discipline in repeatable automated testing and defect-focused analysis
+- Learned to convert expected behavior into executable checks and regression coverage
+- Developed a practical foundation for test design, debugging, and cross-team communication
 
 ### Leapwork — Tester / DevOps Engineer
 **Minsk, Belarus / Kraków, Poland**  
 **11/2018 – 03/2025**
 
-This was the longest and most formative stage of the career. Although part of the time was formally structured through outsourcing partners, in practice it was one long product journey around the same product, product teams, and ecosystem.
+This was the longest and most formative stage of my career. Although part of the period was formally structured through outsourcing partners, in practice it was one long product journey around the same product, teams, and ecosystem.
 
-Initially the work was closer to QA and automation around a no-code automation product, but over time it expanded naturally into scripting, environment automation, infrastructure support, release-related work, and full DevOps-oriented responsibilities.
+The role started closer to QA and automation around a no-code automation platform, then expanded into scripting, environment automation, infrastructure support, Azure DevOps, release support, and internal tooling.
 
-**Key themes of this period:**
-- Worked in a no-code automation environment, but consistently gravitated toward more technical and engineering-heavy work
-- Built PowerShell scripts, JavaScript and Tampermonkey automations, helper tools, VM utilities, installation automation, and many workflow improvements for self and team
-- Automated repetitive manual flows and removed unnecessary manual steps wherever possible
-- Transitioned naturally from local VM and scripting work into broader Azure and infrastructure automation
+**Quality and automation scope:**
+- Worked close to automation-product behavior, regression flows, installation scenarios, and environment reliability
+- Built scripts, helper tools, VM utilities, browser extensions, and workflow automations to reduce repeated manual work
+- Supported delivery and release workflows where quality feedback needed to be visible, repeatable, and actionable
+- Helped teams reason through failures across product behavior, environments, infrastructure, and pipelines
 
-**Examples of automation mindset in practice:**
-- Silent installation flows for the product
-- Remote installation on multiple machines
-- Browser extensions for pipeline-related work
-- JavaScript scripts and shortcuts for repetitive actions
-- Internal helper tools to avoid repeated manual work
+**DevOps / CI/CD scope:**
+- Azure DevOps pipelines and YAML pipeline maintenance
+- PowerShell-driven environment automation and installation flows
+- Azure infrastructure automation with Bicep and practical platform support
+- Work with virtual machines, Key Vault, Application Gateway, WAF, firewall rules, logs, monitoring, and workbooks
+- Practical Docker/Kubernetes support through logs, services, deployments, Helm, K9s, and Grafana
 
-**DevOps / Infrastructure scope:**
-- Azure infrastructure automation
-- Bicep and YAML pipelines
-- PowerShell-driven environment automation
-- Azure DevOps pipelines and release support
-- Virtual machines, Key Vault, Application Gateway, WAF, firewall, monitoring, logs, workbooks
-- Environment creation and update automation
-- Internal team workflow improvements
-
-**Docker / Kubernetes positioning:**
-- Real hands-on experience supporting existing infrastructure
-- Worked with containers, logs, services, practical debugging and deployment issues
-- Used Grafana, K9s, Helm, and Kubernetes in support / maintenance mode
-- Should be positioned honestly as practical hands-on usage, not enterprise-level platform architecture ownership from scratch
-
-**Leadership / collaboration angle:**
-- Often acted as a “Swiss army knife” engineer with broad product and technical context
-- Helped others understand systems and workflows
-- Mentoring and onboarding experience
-- Strong technical ownership instincts without positioning as formal people manager
-
-**Additional domain/context notes:**
-- Worked extensively around enterprise application workflows, especially Dynamics 365
-- Some exposure to Salesforce-related scenarios
-- Solid experience with green-screen style applications in banking-related contexts
+**Relevant value for Ciklum:**
+- Strong match for automated regression guardrails in Azure DevOps
+- Comfortable turning quality criteria into pipeline checks and repeatable automation
+- Used logs, dashboards, and telemetry-like evidence to narrow down failures instead of relying on vague test results
+- Strong at building small tools and scripts around existing systems without requiring a full platform redesign
 
 ### Definely — QA Automation Engineer
 **Kraków, Poland**  
-**06/2025 – 03/2026**
+**06/2025 – Present**
 
-At Definely, the focus returned more strongly to framework improvement, test automation strategy, and quality support in a complex product environment.
+At Definely, the focus returned more strongly to framework improvement, API automation, test strategy, and quality support in a complex product environment.
 
 **Key contributions:**
 - Improved and extended an existing API automation framework
-- Increased test coverage from around 117 to 199 tests without increasing runtime
+- Increased API automation coverage from around 117 to 199 tests without increasing runtime
 - Reduced log volume from around 1.5 GB to 11 MB per run by removing unnecessary debug logging
-- Made test output much more useful for analysis and triage
+- Made test output easier to analyze by improving the signal-to-noise ratio in automation results
+- Worked with PostgreSQL context on the latest project and used backend data understanding to support test validation and investigation
 
 **Automation transition story:**
-- Initially worked with an API framework and existing UI automation approaches
-- Team later moved from FlaUI to Power Automate for UI automation because business constraints required manual QA engineers to contribute to automation quickly
-- Built a hybrid model where no-code orchestration was supported by PowerShell and Python for gaps and limitations
-- Later the product shifted from the old C#-based COM direction to Office.js (OJS)
-- At that point, Playwright with TypeScript became the most practical and maintainable automation direction
+- Worked with existing API and UI automation approaches, then adapted automation strategy as product and business needs changed
+- Supported a hybrid model where no-code orchestration was backed by PowerShell and Python scripts for gaps and limitations
+- As the product shifted toward Office.js, Playwright with TypeScript became the more practical and maintainable automation direction
+- Used modern AI-assisted tools such as ChatGPT, Copilot, Claude Code, and agent-style workflows to speed up engineering and investigation tasks
 
-**What this period demonstrates:**
-- Ability to improve and optimize existing frameworks
-- Ability to move between different automation approaches depending on business need
-- Enabling manual QA engineers and building automation baseline for wider team use
-- Pragmatic engineering judgment rather than technology ideology
-- Experience with modern AI-assisted tooling such as Cloud Code, ChatGPT, Copilot, and agent-based workflow experiments
+**Relevant value for Ciklum:**
+- Direct experience improving a test framework without adding unnecessary runtime cost
+- Strong fit for maintaining baseline metrics and detecting regressions from measurable changes
+- Practical experience reducing automation noise, which maps well to evaluation reports and hallucination/error tracking
+- Comfortable classifying failures, separating real product issues from test/infrastructure noise, and making results usable for developers
 
-**Reason for transition / current search direction:**
-- Company priorities shifted more toward development and maintaining existing end-to-end tests, rather than actively expanding automation further
-- Looking for a role with more room to grow as an automation-focused engineer and continue building systems, not only maintaining them
+## Targeted Match To Ciklum Requirements
+
+**Evaluation lifecycle / golden dataset:**  
+Experienced in defining repeatable acceptance checks, extending test coverage, and building automation around expected behavior. For this role, I would transfer that discipline to golden-query sets, baseline metrics, and recurring evaluation runs.
+
+**RAGAS / LLM evaluation harness:**  
+RAGAS itself would be a ramp-up area, but the underlying engineering is familiar: Python-supported automation, structured test suites, metric collection, result comparison, and CI/CD integration.
+
+**CI/CD regression guardrails:**  
+Strong practical fit through Azure DevOps, YAML pipelines, release support, and pipeline-integrated quality checks.
+
+**Hallucination root-cause taxonomy:**  
+Strong adjacent fit through defect triage, log analysis, framework debugging, and separating product, data, environment, and automation causes. The LLM/code-generation taxonomy would be a new domain, but the failure-analysis method is familiar.
+
+**Performance / latency benchmarking:**  
+Adjacent experience through CI feedback, runtime optimization, logs, Grafana/monitoring context, and keeping automation growth from increasing execution time.
 
 ## Positioning Boundaries / Honest Framing
 
 ### Strongest honest framing
-- Engineer at the intersection of QA Automation, DevOps-aligned QA, environment automation, pipeline-driven delivery, tooling, and process optimization
-- Strong practical systems thinker and workflow optimizer
-- Strongest in PowerShell, Azure-based automation, pipelines, environment automation, UI/API automation, and delivery-related quality work
+- QA Automation Engineer with strong CI/CD, framework improvement, metrics, and DevOps-aligned quality experience
+- Strong practical fit for building automated evaluation/regression workflows and reporting quality signals clearly
+- Good ramp-up candidate for RAGAS / DeepEval / TruLens-style LLM evaluation because the core work resembles test automation plus metric-based acceptance
 
 ### Avoid overclaiming
-- Not a pure classic market-style DevOps engineer
-- Not a Kubernetes platform architect from scratch
-- Not strongest in purely theoretical or overly abstract engineering discussions without practical grounding
+- Do not claim long-term production ownership of RAGAS, DeepEval, TruLens, or RAG-specific evaluation frameworks
+- Do not position as a data scientist or ML researcher
+- Do not claim deep LLM architecture ownership; frame it as AI quality/evaluation engineering with strong QA automation foundations
 
 ### Best-fit roles
-- QA Automation Engineer
-- SDET
-- DevOps-aligned QA
-- Platform Quality / Delivery Quality / Test Infrastructure-focused QA
-- Automation-heavy roles with CI/CD and systems/process improvement angle
-
-## Reusable Achievement Themes
-
-- Reducing runtime and increasing delivery speed
-- Improving feedback quality in CI/CD pipelines
-- Removing unnecessary logging and noise to improve signal quality
-- Increasing automation coverage without bloating execution time
-- Automating repetitive internal team workflows
-- Making environments and delivery processes more reproducible and maintainable
-- Bridging QA and infrastructure concerns instead of treating them separately
-
-## Future Growth Directions / Interests
-
-- Azure / AWS / cloud and infrastructure automation
-- Docker and Kubernetes as deeper growth area
-- Modern toolchains and AI-assisted engineering workflows
-- Roles that combine execution with improvement
-- Long-term meaningful projects with real ownership and practical value
+- Automation QA Engineer
+- QA Automation Engineer for AI / RAG evaluation
+- SDET with CI/CD and evaluation harness focus
+- Quality Engineering role around automated metrics, baselines, and regression guardrails
 

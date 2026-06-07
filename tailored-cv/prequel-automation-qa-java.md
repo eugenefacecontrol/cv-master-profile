@@ -44,7 +44,7 @@ Relevant to Prequel through Java automation background, API and mobile/web E2E t
 
 ## Definely - QA Automation Engineer
 **Krakow, Poland**  
-**06/2025 - 03/2026**
+**06/2025 - Present**
 
 - Improved and extended an API automation framework for broader team use.
 - Increased coverage from around 117 to 199 automated tests without increasing total runtime.

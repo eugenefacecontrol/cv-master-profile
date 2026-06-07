@@ -68,7 +68,7 @@ Best fit for automation roles that need practical coding ability, Selenium/UI te
 
 ## Definely - QA Automation Engineer
 **Krakow, Poland**  
-**06/2025 - 03/2026**
+**06/2025 - Present**
 
 Worked in a complex product environment with strong focus on test automation strategy, framework improvement, CI signal quality, and practical quality support across API and UI layers.
 

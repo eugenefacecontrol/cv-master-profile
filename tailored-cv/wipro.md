@@ -105,7 +105,7 @@ Best fit for SDET roles that need a practical automation engineer who can work a
 
 ## Definely - QA Automation Engineer
 **Krakow, Poland**  
-**06/2025 - 03/2026**
+**06/2025 - Present**
 
 Worked in a complex product environment with strong focus on API automation, test framework improvement, CI signal quality, and pragmatic UI automation strategy.
 
